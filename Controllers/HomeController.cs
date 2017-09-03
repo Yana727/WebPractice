@@ -17,10 +17,8 @@ namespace WebPractice.Controllers
 
          public string First()// for your URL
          {
-             return ("hello world!"); // since we are in the "home", type in localhost:5000/home/first
+             return ("Hello world!"); 
          }
 
-
-       
     }
 }
