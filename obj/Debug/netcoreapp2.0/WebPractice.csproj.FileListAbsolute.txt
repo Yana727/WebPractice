@@ -1,0 +1,10 @@
+/Users/yanawilkins/Documents/dotnet/WebPractice/bin/Debug/netcoreapp2.0/WebPractice.deps.json
+/Users/yanawilkins/Documents/dotnet/WebPractice/bin/Debug/netcoreapp2.0/WebPractice.runtimeconfig.json
+/Users/yanawilkins/Documents/dotnet/WebPractice/bin/Debug/netcoreapp2.0/WebPractice.runtimeconfig.dev.json
+/Users/yanawilkins/Documents/dotnet/WebPractice/bin/Debug/netcoreapp2.0/WebPractice.dll
+/Users/yanawilkins/Documents/dotnet/WebPractice/bin/Debug/netcoreapp2.0/WebPractice.pdb
+/Users/yanawilkins/Documents/dotnet/WebPractice/obj/Debug/netcoreapp2.0/WebPractice.csproj.CoreCompileInputs.cache
+/Users/yanawilkins/Documents/dotnet/WebPractice/obj/Debug/netcoreapp2.0/WebPractice.AssemblyInfoInputs.cache
+/Users/yanawilkins/Documents/dotnet/WebPractice/obj/Debug/netcoreapp2.0/WebPractice.AssemblyInfo.cs
+/Users/yanawilkins/Documents/dotnet/WebPractice/obj/Debug/netcoreapp2.0/WebPractice.dll
+/Users/yanawilkins/Documents/dotnet/WebPractice/obj/Debug/netcoreapp2.0/WebPractice.pdb
