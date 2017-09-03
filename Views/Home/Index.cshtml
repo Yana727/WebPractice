@@ -1,4 +1,4 @@
-﻿@model List<AllViewModel>
+﻿@model List<AllViewModel> 
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -8,12 +8,9 @@
    <h3>Here's the links to all of the things on it:</h3>
                                        <!--View for First --> 
    <h3><a asp-controller="Home" asp-action="First"> Want to see the World?</a></h3>
-                                       <!-- View for api --> 
-   <h3><a asp-controller="Api" asp-action="Api"> Want to see the API</a> </h3>
-
-
-
-
+                                       <!--  View for api --> 
+   <h3><a asp-controller="API" asp-action="Api"> Want to see the API</a> </h3>
+                                       
    <h3><a asp-controller="UserID" asp-action="user/{id}"> UserID</a></h3>
 
    <h3><a asp-controller="MailingList" type = "Post" asp-action=> MailingList</a></h3>

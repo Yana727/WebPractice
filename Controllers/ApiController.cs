@@ -8,11 +8,11 @@ using WebPractice.Models;
 
 namespace WebPractice.Controllers
 {
-    public class APIController : Controller //Why can't this be API controller? wants to be HomeController
+    public class APIController : Controller 
     {
-        protected APIController() //Why empty? 
-        {
-        }
+        // protected APIController() //Why empty? 
+        // {
+        // }
 
         public IActionResult Api()
         {

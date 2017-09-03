@@ -8,7 +8,7 @@ using WebPractice.Models;
 
 namespace WebPractice.Controllers
 {
-    public class ApiController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
