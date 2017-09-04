@@ -11,11 +11,11 @@ namespace WebPractice.Controllers
 {
     public class UserIDController : Controller 
     {
-        [Route ("/user/{ID}")]
+        [Route ("/user/{Id}")]
+        public IActionResult Route()
+        {
+            return View(); 
+        }
 
-       public IActionResult UserID()  //so it returns a message on the page 
-       {
-         return View();  
-       }
     }
 }
